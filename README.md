@@ -1,2 +1,3 @@
 # gitskills
-create a new branch dev and master
+create a new branch dev  and feature1
+
