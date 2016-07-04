@@ -3,3 +3,5 @@ this is A branch
 change A but not finished 
 
 stash后在master中新建分支 issue-101 修改的文件 
+
+在原文件中 修改brancha
