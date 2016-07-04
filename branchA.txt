@@ -1,3 +1,5 @@
 this is A branch
 
-change A but not finished
+change A but not finished 
+
+stash后在master中新建分支 issue-101 修改的文件 
